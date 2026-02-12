@@ -4,7 +4,7 @@ export const metadata = {
 };
 
 export default function ContactPage() {
-  const email = "you@example.com"; // TODO: replace with your real email
+  const email = "cullen.meyers.work@gmail.com"; // TODO: replace with your real email
 
   return (
     <main className="mx-auto max-w-3xl px-6 py-12">
